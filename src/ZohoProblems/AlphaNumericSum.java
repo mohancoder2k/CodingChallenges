@@ -1,7 +1,7 @@
 package ZohoProblems;
 
 import java.util.Scanner;
-
+// sh src/gitCommands.txt 
 public class AlphaNumericSum {
 	public static void main(String args[]) {
 		String s;
@@ -22,3 +22,4 @@ public class AlphaNumericSum {
 		
 	}
 }
+
